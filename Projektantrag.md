@@ -22,7 +22,7 @@ Darüber hinaus sollen geeignete Schutzmaßnahmen herausgearbeitet und dargestel
 
 ### 4.2 Umsetzung
 - Einrichtung der Web- und Datenbankumgebung  
-oder
+- oder
 - Erstellung einer einfachen Webanwendung oder Nutzung einer Sandbox-Website  
 
 - Implementierung absichtlich unsicherer Eingabeformulare (für Testzwecke)  
