@@ -21,8 +21,7 @@ Darüber hinaus sollen geeignete Schutzmaßnahmen herausgearbeitet und dargestel
 - Definition der Anforderungen und des Funktionsumfangs  
 
 ### 4.2 Umsetzung
-- Einrichtung der Web- und Datenbankumgebung oder erstellung einer einfachen Webanwendung oder Nutzung einer Sandbox-Website  
-
+- Einrichtung der Web- und Datenbankumgebung bzw. einer einfachen Webanwendung oder Nutzung einer Sandbox-Website  
 - Implementierung absichtlich unsicherer Eingabeformulare (für Testzwecke)  
 - Durchführung verschiedener SQL-Injection-Angriffe  
 - Laufende Dokumentation der Vorgehensweise und Ergebnisse  
